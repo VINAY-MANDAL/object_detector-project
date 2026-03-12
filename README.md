@@ -5,7 +5,8 @@ A simple **real-time object detection system** built with Python that uses a web
 This project demonstrates how to integrate a deep learning object detection model with a live camera feed to perform real-time inference.
 
 The system captures frames from a webcam, processes them through YOLOv8, and displays detected objects on the screen using OpenCV and Ultralytics.
-
+This is a learning project built while practicing object detection with OpenCV and Python.
+Some concepts were learned from documentation and online examples.
 ---
 
 ## Project Pipeline
